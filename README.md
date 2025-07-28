@@ -1,5 +1,5 @@
-# **Third Year Revision Notes (23/24)** 
-## [Bsc Physics, Durham University](https://www.durham.ac.uk/study/courses/physics-f300/)
+# **MPhil Data Intensive Science Notes (24/25)** 
+## [University of Cambridge](https://mphildis.bigdata.cam.ac.uk)
 ## Author: Jacob Tutt, Department of Physics, University of Cambridge
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
