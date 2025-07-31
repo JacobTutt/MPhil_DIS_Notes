@@ -55,7 +55,7 @@ Additionally, the repository includes notes from theoretical astrophysics course
 - [Notes](Machine%20Learning/Deep%20Learning.pdf)
 - [Coursework](https://github.com/JacobTutt/lora_timeseries)
 
-| **Key Concepts**                  | **Key Concepts**                     |
+| **Key Concepts**                  |                    |
 |----------------------------------|--------------------------------------|
 | Deep Neural Networks             | Loss & Optimisation                  |
 | Regularisation Techniques        | Performance & Evaluation             |
@@ -134,7 +134,7 @@ Additionally, the repository includes notes from theoretical astrophysics course
 ## Cosmology
 - [Notes](Cosmology/Cosmology%20Data%20Analysis.pdf)
 
-| **Key Concepts**                   | **Key Concepts**                              |
+| **Key Concepts**                   |                             |
 |-----------------------------------|------------------------------------------------|
 | Cosmic Microwave Background (CMB) | Angular Power Spectra & Likelihoods           |
 | Cosmological Model Constraints    | CMB-based Parameter Estimation                |
@@ -153,7 +153,7 @@ Additionally, the repository includes notes from theoretical astrophysics course
 ## Relativity
 - [Notes](General%20Relativity/Relativity.pdf)
 
-| **Key Concepts**                   | **Key Concepts**                          |
+| **Key Concepts**                   |                          |
 |------------------------------------|-------------------------------------------|
 | Special Relativity                 | Manifolds & Coordinate Systems            |
 | Vectors & Tensors                  | Tensor Calculus     |
